@@ -18,8 +18,38 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 40px;
 }
 
 .japanicon {
   width: 24px;
+}
+
+/* card styling */
+.card {
+  display: flex;
+  width: 80%;
+  height: 400px;
+  margin-bottom: 32px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.card-image {
+  width: 200px;
+  height: 100%;
+  border-radius: 16px;
+  margin-right: 16px;
+}
+
+.card-description {
+  margin: 0 ;
+}
+
+.card-location {
+  display: flex;
+}
+
+.card-dates {
+  font-weight: 300;
 }

@@ -17,7 +17,7 @@ export default [
     startDate: "12 Feb, 2021",
     endDate: "24 Feb, 2021",
     description: "Arashiyama is a district on the western outskirts of Kyoto, Japan. It is a nationally designated Historic Site and Place of Scenic Beauty.",
-    imageUrl: "./components/images/arashiyama.jpg"
+    imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
   },
   {
     id: 3,
@@ -27,6 +27,6 @@ export default [
     startDate: "12 Mar, 2021",
     endDate: "24 Mar, 2021",
     description: "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan.",
-    imageUrl: "./components/images/nara.jpg"
+    imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
   }
 ]

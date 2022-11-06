@@ -1,4 +1,4 @@
-export default Locations() [
+export default [
   {
     id: 1,
     title: "Mount Fuji",
@@ -13,20 +13,20 @@ export default Locations() [
     id: 2,
     title: "Arashiyama Bamboo Forest",
     location: "Kyoto",
-    googleMapsUrl: "https://goo.gl/maps/abFsecYe2X5krtgP9",
+    googleMapsUrl: "https://goo.gl/maps/AYVizkd8QAsurhVHA",
     startDate: "12 Feb, 2021",
     endDate: "24 Feb, 2021",
     description: "Arashiyama is a district on the western outskirts of Kyoto, Japan. It is a nationally designated Historic Site and Place of Scenic Beauty.",
-    imageUrl: "https://unsplash.com/photos/041DmlRyS3k"
+    imageUrl: "./components/images/arashiyama.jpg"
   },
   {
     id: 3,
     title: "Nara Deer Park",
     location: "Nara",
-    googleMapsUrl: "https://goo.gl/maps/1rZad8ubtxoyY4A5A",
+    googleMapsUrl: "https://goo.gl/maps/kgWLHUR7Q7UqNw5c7",
     startDate: "12 Mar, 2021",
     endDate: "24 Mar, 2021",
     description: "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan.",
-    imageUrl: "https://unsplash.com/photos/Y44GUJey18M"
+    imageUrl: "./components/images/nara.jpg"
   }
 ]

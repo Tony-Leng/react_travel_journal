@@ -1,5 +1,6 @@
-export default [
+export default Locations() [
   {
+    id: 1,
     title: "Mount Fuji",
     location: "Yamanashi",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
@@ -9,6 +10,7 @@ export default [
     imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
   },
   {
+    id: 2,
     title: "Arashiyama Bamboo Forest",
     location: "Kyoto",
     googleMapsUrl: "https://goo.gl/maps/abFsecYe2X5krtgP9",
@@ -18,6 +20,7 @@ export default [
     imageUrl: "https://unsplash.com/photos/041DmlRyS3k"
   },
   {
+    id: 3,
     title: "Nara Deer Park",
     location: "Nara",
     googleMapsUrl: "https://goo.gl/maps/1rZad8ubtxoyY4A5A",
@@ -25,5 +28,5 @@ export default [
     endDate: "24 Mar, 2021",
     description: "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan.",
     imageUrl: "https://unsplash.com/photos/Y44GUJey18M"
-  },
+  }
 ]

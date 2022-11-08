@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     title: "Mount Fuji",
-    location: "Yamanashi",
+    location: "Japan",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -11,22 +11,22 @@ export default [
   },
   {
     id: 2,
-    title: "Arashiyama Bamboo Forest",
-    location: "Kyoto",
+    title: "Sydney Opera House",
+    location: "Australia",
     googleMapsUrl: "https://goo.gl/maps/AYVizkd8QAsurhVHA",
     startDate: "12 Feb, 2021",
     endDate: "24 Feb, 2021",
-    description: "Arashiyama is a district on the western outskirts of Kyoto, Japan. It is a nationally designated Historic Site and Place of Scenic Beauty.",
+    description: "Landmark, skyline-dominating arts centre for opera, theatre, music and dance, plus guided tours.",
     imageUrl: "https://source.unsplash.com/JmuyB_LibRo"
   },
   {
     id: 3,
-    title: "Nara Deer Park",
-    location: "Nara",
-    googleMapsUrl: "https://goo.gl/maps/kgWLHUR7Q7UqNw5c7",
+    title: "Geirangerfjord",
+    location: "Norway",
+    googleMapsUrl: "https://goo.gl/maps/X9HzHDa7aqnL4dWp9",
     startDate: "12 Mar, 2021",
     endDate: "24 Mar, 2021",
-    description: "Nara Park is a public park located in the city of Nara, Japan, at the foot of Mount Wakakusa. Established in 1880, it is one of the oldest parks in Japan.",
+    description: "Iconic fjord offering snowy mountain peaks, lush plant life, cascading falls & spectacular views.",
     imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
   }
 ]
